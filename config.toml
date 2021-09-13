@@ -1,7 +1,7 @@
-baseURL = "https://octalo.github.io"
+baseURL = "https://octago.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Octalo"
+title = "Octago"
 theme = "KeepIt"
 
 paginate = 12
@@ -31,7 +31,7 @@ disqusShortname = ""
 
 [params]
     since = 2021 
-    author = "Octalo"               # Author's name
+    author = "Octago"               # Author's name
     subtitle = "AI-powered apps for the 21st century"
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
@@ -55,12 +55,12 @@ disqusShortname = ""
     #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
 
 [params.social]
-    GitHub = "octalo"
+    GitHub = "octago"
     #Linkedin = "xxxx"
-    Twitter = "octalo_ai"
+    Twitter = "octago_ai"
     #Instagram = "xxxx"
     #Email   = "xxxx"
-    Facebook = "octaloAI"
+    Facebook = "octagoAI"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -130,10 +130,10 @@ Linkedin = true
 #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "octalo"
+  name = "octago"
 
   [params.publisher]
-    name = "octalo"
+    name = "octago"
 
     [params.publisher.logo]
       url = "logo.png"
