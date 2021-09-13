@@ -55,7 +55,7 @@ disqusShortname = ""
     #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
 
 [params.social]
-  GitHub = "octago"
+  #GitHub = "octago-ai"
   #Linkedin = "xxxx"
   Twitter = "octago_ai"
   #Instagram = "xxxx"
