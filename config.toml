@@ -32,7 +32,7 @@ disqusShortname = ""
 [params]
     since = 2021 
     author = "Octago"               # Author's name
-    subtitle = "AI-powered apps for the 21st century"
+    subtitle = "We develop modern, AI-powered apps"
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -46,7 +46,7 @@ disqusShortname = ""
     avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
     #socialShare = true
 
-    description = "AI-powered apps for the 21st century" # site description
+    description = "We develop modern, AI-powered apps"
     keywords = "app AI ML" # site keywords
 
     #license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
