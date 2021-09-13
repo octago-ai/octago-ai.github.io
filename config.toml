@@ -25,6 +25,11 @@ disqusShortname = ""
 
 [menu]
   [[menu.main]]
+    name = "Products"
+    url = "/products"
+    weight = 3
+
+  [[menu.main]]
     name = "About"
     url = "/about"
     weight = 4
